@@ -1,16 +1,14 @@
-# presensi_siswa
+# Presensi Siswa
 
-A new Flutter project.
+**Reza Fahresi 362358302144**
 
-## Getting Started
+**Hasil Screen Presensi Siswa**
 
-This project is a starting point for a Flutter application.
+<img width="182" alt="image" src="https://github.com/user-attachments/assets/25ac00fa-7f05-45d7-8195-43e7f2072f9b">
 
-A few resources to get you started if this is your first Flutter project:
+**Hasil Riwayat Presensi Siswa**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="181" alt="image" src="https://github.com/user-attachments/assets/c640593c-7717-488b-9b81-5baeecfe00d9">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
